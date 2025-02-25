@@ -1,3 +1,0 @@
-This project simulates real-time production data for a manufacturing environment. 
-Using Python, we generate machine data for a 30-day period, capturing productivity levels, alarms, and shift-based variations. 
-The generated data is then visualized in Power BI, providing meaningful insights into machine performance and efficiency.
